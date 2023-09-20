@@ -1,4 +1,4 @@
-# saltybot
+# saltbot
 タイムラインに塩を撒くbotです．「塩撒いとけ」「塩を撒いてください」というメンションをもらうと，タイムラインに塩を撒きます．
 
 [塩撒きbotアカウント](https://misskey.io/@saltbot)
